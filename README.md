@@ -1,10 +1,10 @@
-#### G'd day ~
+#### 🌱 G'd day ~
 
-- 🌱 I’m currently learning to code and to build something meaningful 👋
+- ⚡ I’m currently learning to code and to build something meaningful 👋
 - 👯 I’m looking to collaborate on small-scale projects.
-- 📫 How to reach me: twitter, telegram, CodePen...
+- 📫 How to reach me: twitter, telegram, CodePen, Repl.it
 - 😄 I like connecting with people from different cultures, esp. enjoy a sense of humor.
-- ⚡ I love everything Finnish ✨
+- ❤️ I love everything Finnish ✨
 
 about me: https://hopefullyme.netlify.app/
 as in August 2020
