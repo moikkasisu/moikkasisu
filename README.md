@@ -1,6 +1,6 @@
 #### 🌱🍀 G'd day ~
 
-- ⚡🚀 I keep learning Javascript🌵🍄, oh yeah!👋
+- ⚡🚀 I am still learning Javascript🌵🍄, oh yeah!👋
 - 🌳🌻 I like connecting with people with a sense of humor🍅
 - 🍧🌸 I love everything Fnnish ✨
 
