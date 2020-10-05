@@ -1,4 +1,4 @@
-#### 🔆 :tada: G'd day ~
+#### 🔆:tada: G'd day ~
 
 - ⚡🚀 Web dev is fun, oh yeah! I am pacing myself:wink::penguin:
 - 🌳🌻 I like connecting with people with a sense of humor🍅:chestnut:
