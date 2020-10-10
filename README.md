@@ -1,8 +1,8 @@
 #### 🔆:tada: G'd day ~
 
 - ⚡🚀 Learn, Build, Destruct, Repeat
-- 🌳🌻 I like connecting with people with a sense of humor🍅:chestnut:
-- 🍧:snowflake:I love everything Finnish, French :snail: or Finneas :notes::rose:
+- 🌳🌻 It is important to have a sense of humor🍅:chestnut:
+- 🍧:snowflake::heartpulse:Finnish, French, Finneas:notes:
 
 about me: https://hopefullyme.netlify.app/
 as in August 2020 ✨
