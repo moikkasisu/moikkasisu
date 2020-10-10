@@ -1,6 +1,6 @@
 #### 🔆:tada: G'd day ~
 
-- ⚡🚀 Web dev is fun, oh yeah! I am pacing myself:wink::penguin:
+- ⚡🚀 Learn, Build, Destruct, Repeat
 - 🌳🌻 I like connecting with people with a sense of humor🍅:chestnut:
 - 🍧:snowflake:I love everything Finnish, French :snail: or Finneas :notes::rose:
 
