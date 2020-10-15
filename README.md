@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" name="website" alt="mywebsite" width="24px" src="https://i.imgur.com/SctEZALm.png" />][website]
+[<img align="left" title="mypage" aria-label="my-website" alt="my-website" width="24px" src="https://i.imgur.com/SctEZALm.png" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
