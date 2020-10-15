@@ -1,6 +1,6 @@
 #### 🔆:tada: G'd day ~
 
-- ⚡🚀 Learn, Build, Destruct, Repeat 🌳
+- ⚡🚀 Learn, Build, React, Destruct, Repeat 🌳
 - 🌻 Enjoy a sense of humor🍅:chestnut:
 - :snowflake::heartpulse: Finnish, French, Finneas :notes:
 
