@@ -1,13 +1,14 @@
 #### 🔆:tada: G'd day ~
 
-- ⚡🚀 Learn, Build, React, Destruct, Repeat ✨[<img align="left" alt="Linktree" width="30px" src="https://d1fdloi71mui9q.cloudfront.net/2JzuuTgmRzu7vvFaQEZw_3ac083aacd71b153dbd37bb68bc52cee" />][linktree]
+- ⚡🚀 Learn, Build, React, Destruct, Repeat ✨
 - 🌻 Enjoy a sense of humor 🍅
 - :snowflake::heartpulse: Finnish, French, Finneas :notes:
 - <img src="https://www.codewars.com/favicon.ico" width="18px" alt="codewars" /> is addictive :zany_face:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://i.imgur.com/SctEZALm.png" />][website]
+[<img align="left" alt="my website" width="22px" src="https://i.imgur.com/SctEZALm.png" />][website]
+[<img align="left" alt="Linktree" width="30px" src="https://d1fdloi71mui9q.cloudfront.net/2JzuuTgmRzu7vvFaQEZw_3ac083aacd71b153dbd37bb68bc52cee" />][linktree]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
