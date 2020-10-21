@@ -1,9 +1,9 @@
-#### 🔆:tada: G'd day ~
+#### 🔆:wave: G'd day ~
 
 - ⚡🚀 Learn, Build, React, Destruct, Repeat ✨
-- 🌻 Enjoy a sense of humor 🍅
-- :snowflake::heartpulse: Finnish, French, Finneas :notes:
-- <img src="https://www.codewars.com/favicon.ico" width="18px" alt="codewars" /> seems addictive :zany_face:
+- 🌻 Enjoy a sense of humor 🍅:tada:
+- :snowflake: Love everything Finnish, French, Finneas :notes:
+- :heartpulse: robotics, drones and <img src="https://www.codewars.com/favicon.ico" width="18px" alt="codewars" /> 
 
 ### Connect with me:
 
