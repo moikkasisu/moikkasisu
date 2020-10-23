@@ -1,9 +1,9 @@
 #### 🔆:wave: G'd day ~
 
-- ⚡🚀 Learning by building, maybe on reddit too much...
+- ⚡ Learning by building 🚀 <img style="border: 0" src="https://i.imgur.com/QWayDVCt.png" width="20" height="20" alt="@codewars" />, maybe on reddit too much lol
 - 🌻 Enjoy a sense of humor 🍅:tada:
 - :snowflake: Love everything Finnish, French, Finneas :notes:
-- :heartpulse: robotics, drones, ⚽️, <img src="https://www.codewars.com/favicon.ico" width="18px" alt="codewars" /> 
+- :heartpulse: robotics, drones, ⚽️
 
 ### Connect with me ✨:
 
