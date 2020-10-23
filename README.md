@@ -1,11 +1,11 @@
 #### 🔆:wave: G'd day ~
 
-- ⚡🚀 Learn, Build, React, Destruct, Repeat ✨
+- ⚡🚀 Learning by building, maybe on reddit too much...
 - 🌻 Enjoy a sense of humor 🍅:tada:
 - :snowflake: Love everything Finnish, French, Finneas :notes:
-- :heartpulse: robotics, drones and <img src="https://www.codewars.com/favicon.ico" width="18px" alt="codewars" /> 
+- :heartpulse: robotics, drones, ⚽️, <img src="https://www.codewars.com/favicon.ico" width="18px" alt="codewars" /> 
 
-### Connect with me:
+### Connect with me ✨:
 
 [<img align="left" title="my website" aria-label="my-website" alt="my-website" width="24px" src="https://i.imgur.com/SctEZALm.png" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
