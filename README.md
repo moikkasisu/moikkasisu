@@ -1,6 +1,6 @@
 #### 🔆:wave: G'd day ~
 
-- ⚡ Learning by building 🚀 <img style="border: 0" src="https://i.imgur.com/QWayDVCt.png" width="20" height="20" alt="@codewars" />, maybe on reddit too much lol
+- ⚡🚀 Learning by building [<img title="project links" alt="Linktree" width="22px" src="https://i.imgur.com/nGrIus3m.png" />][linktree] <img style="border: 0" src="https://i.imgur.com/QWayDVCt.png" width="20" height="20" alt="@codewars" />, maybe on reddit too much lol
 - 🌻 Enjoy a sense of humor 🍅:tada:
 - :snowflake: Love everything Finnish, French, Finneas :notes:
 - :heartpulse: robotics, drones, ⚽️
@@ -11,7 +11,6 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" title="project links" alt="Linktree" width="22px" src="https://i.imgur.com/nGrIus3m.png" />][linktree]
 <br />
 
 ### My growing skills:
