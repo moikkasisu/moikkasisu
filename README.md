@@ -1,6 +1,6 @@
 #### 🔆:wave: G'd day ~
 
-- ⚡🚀 Learning by building for fun [<img title="project links" alt="Linktree" width="22px" src="https://i.imgur.com/nGrIus3m.png" />][linktree] <img style="border: 0" src="https://i.imgur.com/QWayDVCt.png" width="20" height="20" alt="@codewars" />, maybe on reddit too much lol
+- ⚡🚀 Learning by building for fun [<img title="project links" alt="Linktree" width="22px" src="https://i.imgur.com/nGrIus3m.png" />][linktree] <img style="border: 0" src="https://i.imgur.com/QWayDVCt.png" width="20" height="20" alt="@codewars" />. Time to focus on what really matters now.
 - 🌻 Enjoy a sense of humor 🍅:tada:
 - :snowflake: Love everything Finnish, French, Finneas :notes:
 - :heartpulse: robotics, drones, ⚽️
