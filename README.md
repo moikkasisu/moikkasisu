@@ -9,7 +9,6 @@
 
 [<img align="left" title="my website" aria-label="my-website" alt="my-website" width="24px" src="https://i.imgur.com/SctEZALm.png" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 
@@ -27,6 +26,5 @@
 [website]: https://finalspacejoy.com
 [linktree]: https://linktr.ee/monicawu
 [twitter]: https://twitter.com/moikkasisu
-[instagram]: https://www.instagram.com/coderbleu/
 [telegram]: https://t.me/moikkasisu
 
