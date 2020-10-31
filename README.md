@@ -1,18 +1,11 @@
 #### 🔆:wave: G'd day ~
 
-- ⚡🚀 Learning by building for fun [<img title="project links" alt="Linktree" width="22px" src="https://i.imgur.com/nGrIus3m.png" />][linktree] <img style="border: 0" src="https://i.imgur.com/QWayDVCt.png" width="20" height="20" alt="@codewars" />... Time to focus now.
+- ⚡🚀 Learning by building for fun [<img title="project links" alt="Linktree" width="22px" src="https://i.imgur.com/nGrIus3m.png" />][linktree] [<img title="my website" aria-label="my-website" alt="my-website" width="24px" src="https://i.imgur.com/SctEZALm.png" />][website]
 - 🌻 Enjoy a sense of humor 🍅:tada:
 - :snowflake: Love everything Finnish, French, Finneas :notes:
-- :heartpulse: Robotics, drones, ⚽️
+- :heartpulse: Robotics, drones, <img style="border: 0" src="https://i.imgur.com/QWayDVCt.png" width="20" height="20" alt="@codewars" /> 
 
-### Connect with me ✨:
-
-[<img align="left" title="my website" aria-label="my-website" alt="my-website" width="24px" src="https://i.imgur.com/SctEZALm.png" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-<br />
-
-### My growing skills:
+#### Skills are growing bit by bit in my garden ✨:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -25,6 +18,4 @@
 
 [website]: https://finalspacejoy.com
 [linktree]: https://linktr.ee/monicawu
-[twitter]: https://twitter.com/moikkasisu
-[telegram]: https://t.me/moikkasisu
 
