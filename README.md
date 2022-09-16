@@ -1,9 +1,6 @@
 #### 🔆:wave: G'd day ~
 
-- ⚡🚀 Learning by building for fun [<img title="project links" alt="Linktree" width="22px" src="https://i.imgur.com/nGrIus3m.png" />][linktree] [<img title="my website" aria-label="my-website" alt="my-website" width="24px" src="https://i.imgur.com/SctEZALm.png" />][website]
-- 🌻 Enjoy a sense of humor 🍅:tada:
-- :snowflake: Love everything Finnish, French, Finneas :notes:
-- :heartpulse: Robotics, drones, <img style="border: 0" src="https://i.imgur.com/QWayDVCt.png" width="20" height="20" alt="@codewars" /> 
+- ⚡🚀 Learning by building for fun [<img title="project links" alt="Linktree" width="22px" src="https://i.imgur.com/nGrIus3m.png" />][linktree] [<img title="my website" aria-label="my-website" alt="my-website" width="24px" src="https://i.imgur.com/SctEZALm.png" />][website] <img style="border: 0" src="https://i.imgur.com/QWayDVCt.png" width="20" height="20" alt="@codewars" /> 
 
 #### Skills are growing bit by bit in my garden ✨:
 
